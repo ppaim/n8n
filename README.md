@@ -15,7 +15,7 @@ The Schedule_Store_Pet.json file is a specialized flow for scheduling appointmen
 OpenAI</br>
 Supabase (Vector Store)</br>
 Redis</br>
-Google Calender</br>
+Google Calendar</br>
 Google Gmail</br>
 Evolution API</br>
 
